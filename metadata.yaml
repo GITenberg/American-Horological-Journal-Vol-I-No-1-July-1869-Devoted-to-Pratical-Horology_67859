@@ -1,0 +1,29 @@
+_repo: American-Horological-Journal-Vol-I-No-1-July-1869-Devoted-to-Pratical-Horology_67859
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Miller, George B.
+    alias: Miller, G. B.
+    gutenberg_agent_id: '54496'
+    url: http://www.gutenberg.org/2009/agents/54496
+description: ''
+gutenberg_issued: '2022-04-17'
+identifiers:
+  gutenberg: '67859'
+language: en
+pgterms:marc905: 20210508170350miller
+pgterms:marc906: '1873'
+pgterms:marc907: US
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :G. B. Miller,1873.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TS'
+- !lcsh 'Clocks and watches -- Periodicals'
+- GITenberg
+title: 'American Horological Journal, Vol. I, No. 1, July 1869: Devoted to Pratical
+  Horology'
+url: http://www.gutenberg.org/ebooks/67859
