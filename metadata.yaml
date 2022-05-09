@@ -1,5 +1,8 @@
 _repo: American-Horological-Journal-Vol-I-No-1-July-1869-Devoted-to-Pratical-Horology_67859
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67859-h/images/cover.jpg
 creator:
   editor:
     agent_name: Miller, George B.
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '54496'
     url: http://www.gutenberg.org/2009/agents/54496
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67859#American-Horological-Journal-Vol-I-No-1-July-1869-Devoted-to-Pratical-Horology
 gutenberg_issued: '2022-04-17'
 identifiers:
   gutenberg: '67859'
